@@ -1,2 +1,7 @@
 # Social-Link-Holder
-Holds all your social links in one place
+This is a basic social link holder my first prototype.
+It has:
+A username section
+A profile picture
+Links and icons
+Footer
